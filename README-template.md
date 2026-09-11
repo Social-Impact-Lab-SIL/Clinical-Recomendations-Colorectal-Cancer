@@ -40,7 +40,7 @@ The primary analysis uses commercial health insurance claims data from the Healt
 ### National Health Interview Survey (NHIS) 
 The supplementary analysis uses data from the National Health Interview Survey (NHIS) for 2010, 2013, 2015, 2018, 2019, 2021, and 2023. The data were obtained through IPUMS NHIS and are available at https://nhis.ipums.org/nhis/
 
-NHIS Variables
+### NHIS Variables
 
 The IPUMS NHIS extract used in the analysis includes the following variables:
 
@@ -62,4 +62,4 @@ The extract includes survey years 2010, 2013, 2015, 2018, 2019, 2021, and 2023.
 
 ## Contact
 
-[Brad Davis] — [badhhh@missouri] — Social Impact Lab, University of Missouri
+Brad Davis — badhhh@missouri — Social Impact Lab, University of Missouri
