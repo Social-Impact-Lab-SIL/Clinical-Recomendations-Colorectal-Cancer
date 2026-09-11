@@ -34,9 +34,11 @@ To reproduce the NHIS analysis:
 
 ## Data Sources
 
-Health Care Cost Institute (HCCI) - The primary analysis uses commercial health insurance claims data from the Health Care Cost Institute (HCCI) for 2015–2022. These data include claims from large commercial insurers across the United States. The HCCI data are restricted and cannot be redistributed by the authors.
+### Health Care Cost Institute (HCCI) 
+The primary analysis uses commercial health insurance claims data from the Health Care Cost Institute (HCCI) for 2015–2022. These data include claims from large commercial insurers across the United States. The HCCI data are restricted and cannot be redistributed by the authors.
 
-National Health Interview Survey (NHIS) - The supplementary analysis uses data from the National Health Interview Survey (NHIS) for 2010, 2013, 2015, 2018, 2019, 2021, and 2023. The data were obtained through IPUMS NHIS and are available at https://nhis.ipums.org/nhis/
+###National Health Interview Survey (NHIS) 
+The supplementary analysis uses data from the National Health Interview Survey (NHIS) for 2010, 2013, 2015, 2018, 2019, 2021, and 2023. The data were obtained through IPUMS NHIS and are available at https://nhis.ipums.org/nhis/
 
 NHIS Variables
 
