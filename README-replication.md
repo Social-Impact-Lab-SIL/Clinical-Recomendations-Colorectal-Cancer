@@ -17,7 +17,7 @@ This folder contains the code and instructions to replicate the findings of "Cli
 4. Run `NHIS Analysis.do` from start to finish.
 
 
-## List of Tables and Figures
+## List of Figures
 | Exhibit | Script | Output File |
 | :--- | :--- | :--- |
 | Table 1 | `02_analysis.do` | `tables/table1.tex` |
