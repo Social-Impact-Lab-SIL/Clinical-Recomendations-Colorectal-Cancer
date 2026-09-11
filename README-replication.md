@@ -32,7 +32,7 @@ This folder contains the code and instructions to replicate the findings of "Cli
 | Figure 9 | HCCI analysis code | `figures/Figure 9a - ACS Cost.png`<br>`figures/Figure 9b - USPSTF Cost.png` |
 | Figure 10 | HCCI analysis code | `figures/Figure 10a - ACS Zero OOP Share.png`<br>`figures/Figure 10b - USPSTF Zero OOP Share.png` |
 | Figure 11 | HCCI analysis code | `figures/Figure 11a - ACS Cost by Claim Type.png`<br>`figures/Figure 11b - USPSTF Cost by Claim Type.png` |
-| Figure 12 | `NHIS Analysis.do` | `figures/NHIS_Colonoscopy.pdf` |
+| Figure 12 | NHIS analysis code | `figures/NHIS_Colonoscopy.pdf` |
 | Figure A1 | HCCI/NHIS sample construction | `figures/Figure A1 - Sample Construction.png` |
 | Figure A2 | HCCI analysis code | `figures/Figure A2 - Sigmoidoscopy Event Study.png` |
 | Figure A3 | HCCI analysis code | `figures/Figure A3a - Share of Colonoscopies with Polyp Trends.png`<br>`figures/Figure A3b - Share of Colonoscopies with Polyp Event Study.png` |
