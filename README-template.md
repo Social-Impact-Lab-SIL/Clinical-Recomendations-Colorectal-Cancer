@@ -32,8 +32,6 @@ To reproduce the NHIS analysis:
 3. Name the file `nhis_00003.dat` and place it in the same working directory as `NHIS Analysis.do` (or modify the file name/path in the do-file as needed).
 4. Run `NHIS Analysis.do` from start to finish.
 
-The do-file imports the raw IPUMS NHIS data, constructs the analytic sample and variables, accounts for the NHIS complex survey design, estimates the models, and produces the NHIS results and figure used in the paper.
-
 ## Data Sources
 
 Health Care Cost Institute (HCCI) - The primary analysis uses commercial health insurance claims data from the Health Care Cost Institute (HCCI) for 2015–2022. These data include claims from large commercial insurers across the United States. The HCCI data are restricted and cannot be redistributed by the authors.
