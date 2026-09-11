@@ -6,9 +6,15 @@
 
 ## Overview
 
-[This project studies how changes in colorectal cancer screening recommendations and associated insurance coverage requirements affected screening utilization and patient cost sharing. We study the 2018 American Cancer Society recommendation and the 2021 U.S. Preventive Services Task Force recommendation using commercial claims data from HCCI and nationally representative NHIS survey data.]
+This project studies how changes in colorectal cancer screening recommendations and associated insurance coverage requirements affected screening utilization and patient cost sharing. We study the 2018 American Cancer Society recommendation and the 2021 U.S. Preventive Services Task Force recommendation using commercial claims data from HCCI and nationally representative NHIS survey data.
 
 ## Repository Structure
+
+├── code/           # Analysis scripts
+├── data/           # Data documentation; restricted data are not committed
+├── figures/        # Figures produced by the analysis
+└── README.md
+
 ├── data/           # Raw and processed data (not committed — see .gitignore)
 ├── code/           # Analysis scripts
 ├── output/         # Tables, figures, and results
@@ -20,6 +26,10 @@
 Stata 17
 
 ## How to Run
+
+### HCCI Analysis
+
+The HCCI analysis code is provided in the `code` directory. The underlying HCCI commercial claims data are restricted and are not included in this repository.
 
 ### NHIS Analysis
 
@@ -40,25 +50,6 @@ The primary analysis uses commercial health insurance claims data from the Healt
 ### National Health Interview Survey (NHIS) 
 The supplementary analysis uses data from the National Health Interview Survey (NHIS) for 2010, 2013, 2015, 2018, 2019, 2021, and 2023. The data were obtained through IPUMS NHIS and are available at https://nhis.ipums.org/nhis/
 
-### NHIS Variables
-
-The IPUMS NHIS extract used in the analysis includes the following variables:
-
-- YEAR
-- STRATA
-- PSU
-- SAMPWEIGHT
-- ASTATFLG
-- AGE
-- SEX
-- MARSTCUR
-- RACENEW
-- HISPYN
-- EDUC
-- HIPRIVATEE
-- COLSIGEV
-
-The extract includes survey years 2010, 2013, 2015, 2018, 2019, 2021, and 2023.
 
 ## Contact
 
