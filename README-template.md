@@ -1,8 +1,8 @@
-# [Clinical Recommendations, Cost Sharing, and Preventive Care: Evidence from Colorectal Cancer Screening]
+# Clinical Recommendations, Cost Sharing, and Preventive Care: Evidence from Colorectal Cancer Screening
 
-**Status:** [Under Review]  
-**Maintainer:** [Brad Davis, Postdoctoral Fellow]  
-**Last Updated:** [September 2026]
+**Status:** Under Review  
+**Maintainer:** Brad Davis, Postdoctoral Fellow 
+**Last Updated:** September 2026
 
 ## Overview
 
