@@ -21,16 +21,18 @@ Stata 17
 
 ## How to Run
 
-NHIS Analysis
+### NHIS Analysis
 
-The NHIS data used in the analysis are obtained from IPUMS NHIS and are not included in this repository. To reproduce the NHIS results:
+The NHIS analysis is conducted in Stata using data obtained from IPUMS NHIS. The underlying NHIS data are not included in this repository.
 
-1. Obtain an IPUMS NHIS extract for survey years 2010, 2013, 2015, 2018, 2019, 2021, and 2023 using the variables listed below.
-2. Download the extract as a fixed-width `.dat` file and place it in the appropriate data directory.
-3. Update the working directory and data-file name in the NHIS Stata do-file as needed.
-4. Run the do-file from start to finish.
+To reproduce the NHIS analysis:
 
-The NHIS data can be obtained from IPUMS NHIS.
+1. Obtain an IPUMS NHIS extract for survey years 2010, 2013, 2015, 2018, 2019, 2021, and 2023 using the variables listed in `NHIS Analysis.do`.
+2. Download the extract as a fixed-width `.dat` file.
+3. Name the file `nhis_00003.dat` and place it in the same working directory as `NHIS Analysis.do` (or modify the file name/path in the do-file as needed).
+4. Run `NHIS Analysis.do` from start to finish.
+
+The do-file imports the raw IPUMS NHIS data, constructs the analytic sample and variables, accounts for the NHIS complex survey design, estimates the models, and produces the NHIS results and figure used in the paper.
 
 ## Data Sources
 
