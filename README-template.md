@@ -37,7 +37,7 @@ The NHIS analysis is conducted in Stata using data obtained from IPUMS NHIS. The
 
 To reproduce the NHIS analysis:
 
-1. Obtain an IPUMS NHIS extract for survey years 2010, 2013, 2015, 2018, 2019, 2021, and 2023 using the variables listed in below.
+1. Obtain an IPUMS NHIS extract for survey years 2010, 2013, 2015, 2018, 2019, 2021, and 2023 using the variables specified in NHIS Analysis.do.
 2. Download the extract as a fixed-width `.dat` file.
 3. Name the file `nhis_00003.dat` and place it in the same working directory as `NHIS Analysis.do` (or modify the file name/path in the do-file as needed).
 4. Run `NHIS Analysis.do` from start to finish.
