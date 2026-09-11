@@ -1,4 +1,4 @@
-cd "C:\Users\badhhh\OneDrive - University of Missouri\Projects\CRC Screening\NHIS"
+
 
 
 clear
