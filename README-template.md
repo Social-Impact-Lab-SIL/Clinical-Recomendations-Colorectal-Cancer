@@ -11,14 +11,9 @@ This project studies how changes in colorectal cancer screening recommendations 
 ## Repository Structure
 
 ├── code/           # Analysis scripts
-├── data/           # Data documentation; restricted data are not committed
 ├── figures/        # Figures produced by the analysis
 └── README.md
 
-├── data/           # Raw and processed data (not committed — see .gitignore)
-├── code/           # Analysis scripts
-├── output/         # Tables, figures, and results
-└── README.md
 
 ## Requirements
 
